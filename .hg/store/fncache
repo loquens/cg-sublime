@@ -1,0 +1,16 @@
+data/next_group.py.i
+data/forward_paragraph.py.i
+data/Default.sublime-keymap.i
+data/.hgignore.i
+data/prev_group.py.i
+data/sort_paragraphs.py.i
+data/prompt_change_view.py.i
+data/clone_to_new_window.py.i
+data/prompt_open_file_path.py.i
+data/splitWindowHorizontally.py.i
+data/deleteWindow.py.i
+data/LICENSE.i
+data/README.txt.i
+data/status_info.py.i
+data/sort-paragraphs.py.i
+data/backward_paragraph.py.i
